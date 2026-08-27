@@ -2,6 +2,10 @@
 
 A full-stack hospital management system built using React, Spring Boot, MySQL, and JWT authentication.
 
+## 🚀 Live Demo
+
+[**MediCare — Hospital Management System**](https://hospital-management-system-1-pc10.onrender.com)
+
 ## Technology Stack
 
 ### Backend
@@ -34,7 +38,4 @@ Create a MySQL database named:
 
 ```sql
 CREATE DATABASE hospital;
-
-## 🚀 Live Demo
-
-[**MediCare — Hospital Management System**](https://hospital-management-system-1-pc10.onrender.com)
+```
