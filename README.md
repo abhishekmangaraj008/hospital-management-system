@@ -34,3 +34,7 @@ Create a MySQL database named:
 
 ```sql
 CREATE DATABASE hospital;
+
+## 🚀 Live Demo
+
+[**MediCare — Hospital Management System**](https://hospital-management-system-1-pc10.onrender.com)
